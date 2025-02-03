@@ -5,13 +5,3 @@ A simple bash script to print customizable circles to the terminal
 
 For example:
 $./circle.sh 4 -f -t'||'
-\
-      ||||||      
-  ||||||||||||||  
-  ||||||||||||||  
-||||||||||||||||||
-||||||||||||||||||
-||||||||||||||||||
-  ||||||||||||||  
-  ||||||||||||||  
-      ||||||    
